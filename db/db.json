@@ -645,13 +645,20 @@
       "likes": 0
     }
   ],
-
   "Login": [
     {
       "id": 1,
       "name": "Elyas",
       "email": "Elyas.shamal2@gmail.com",
       "password": "12345"
+    }
+  ],
+
+  "Note": [
+    {
+      "id": 1,
+      "title": "Note 1",
+      "content": "This content is for Note 1"
     }
   ]
 }
